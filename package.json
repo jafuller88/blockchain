@@ -1,0 +1,29 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "An example blockchain written in TypeScript",
+  "main": "blockchain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blockchain",
+    "cryptography"
+  ],
+  "author": "James Fuller",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^16.1.1",
+    "gulp": "^3.9.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-typescript": "^4.0.1",
+    "gulp-uglify": "^3.0.0",
+    "tsify": "^3.0.4",
+    "typescript": "^2.7.2",
+    "vinyl-buffer": "^1.0.1",
+    "vinyl-source-stream": "^2.0.0"
+  },
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
