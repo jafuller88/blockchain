@@ -18,8 +18,6 @@ As already stated this is just a basic example. A fully working and operational 
 4. A Wallet
 
 To run this you require the following:
-
-## Pre-Requesites
 1. npm
 2. Typescript
 3. gulp
