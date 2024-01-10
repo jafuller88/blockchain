@@ -45,3 +45,6 @@ This will run the code found in test.ts.
 For a full tutorial of how this works please visit my tech blog [fullertech.co.uk](http://www.fullertech.co.uk/crypto/2018/04/22/an-example-blockchain-in-typescript.html)
 
 Enjoy!
+
+## SEO Help
+https://innerliferecovery.com/
